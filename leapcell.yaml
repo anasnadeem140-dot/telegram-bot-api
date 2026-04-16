@@ -2,6 +2,6 @@ runtime: docker
 port: 8080
 env:
   - name: TELEGRAM_API_ID
-    value: YOUR_API_ID
+    value: 30369601
   - name: TELEGRAM_API_HASH
-    value: YOUR_API_HASH
+    value: b3110dfdc4dfb45111e8128a9f0e7639
